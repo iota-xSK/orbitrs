@@ -1,0 +1,8 @@
+[package]
+name = "orbitrs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4.12"
+vecxd = "0.1.2"
